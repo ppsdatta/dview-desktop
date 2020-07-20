@@ -18,6 +18,7 @@
   "license": "MIT",
   "devDependencies": {
     "electron": "^8.2.5",
-    "electron-builder": "^22.6.0"
+    "electron-builder": "^22.6.0",
+    "lodash": ">=4.17.19"
   }
 }
